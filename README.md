@@ -42,30 +42,29 @@ Periodic assessments are crucial for gauging comprehension.
 ## **🛠 Technology Stack**
 
 * **Platform:** Android (Java/Kotlin)  
-* **UI/UX:** Designed with a modern, clear, and engaging dark theme (as seen in screenshots).  
-* **Database:** **Firebase Firestore** (Chosen for online, real-time, and scalable data storage).
-
+* **UI/UX:** Designed with a glassmorphism, clear, and engaging dark theme.  
+* **Database:** In this initial demonstration version, all data are local, but we store data in an online database.
+## **🖼️ Preview**
+<p align="center">
+  <img src="GitHub assets/1.png" width="30%" />
+  <img src="GitHub assets/2.png" width="30%" />
+  <img src="GitHub assets/3.png" width="30%" />
+</p>
 ## **🚀 Getting Started**
 
 ### **Prerequisites**
 
 * Android Studio  
-* Java Development Kit (JDK)  
+* And Android Studio requirements  
 * A physical Android device or emulator for testing  
-* A **Firebase Project** with Firestore initialized (required for data access).
 
 ### **Installation**
-
-1. **Clone the Repository:**  
-   git clone \[https://github.com/YourUsername/general-english-app.git\](https://github.com/YourUsername/general-english-app.git)  
+1. Create a Flutter project
+1. Clone the Repository: 
+   git clone \[https://github.com/yyzadeh/General-English-Learning-Companion.git\](https://github.com/yyzadeh/General-English-Learning-Companion.git)  
    cd general-english-app
-
-2. Open in Android Studio:  
-   Open the cloned project folder in Android Studio.  
-3. Configure Firebase:  
-   Follow the official Android documentation to add your google-services.json file to the app module directory and configure the Firebase SDK dependencies.  
-4. Sync and Build:  
-   Allow Gradle to sync dependencies, then run the project on your preferred device or emulator.
+2. Locate the lib folder contents in your created project lib folder.  
+3. Run it on your emulator or create apk.
 
 ## **🤝 Contributing**
 
@@ -77,13 +76,5 @@ Contributions are welcome\! If you are a fellow developer or student looking to 
 4. Push to the branch (git push origin feature/AmazingFeature).  
 5. Open a Pull Request.
 
-## **📄 License**
-
-Distributed under the MIT License. See LICENSE.txt for more information.
-
-## **📞 Contact**
-
-Your Name \-
-
-$$Your Email Address$$  
-Project Link: [https://github.com/YourUsername/general-english-app](https://www.google.com/search?q=https://github.com/YourUsername/general-english-app)
+### **✉️ E-mail** 
+yousef.yousefian.85@gmail.com
