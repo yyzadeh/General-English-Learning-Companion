@@ -1,4 +1,4 @@
-# **General English Learning Companion (University Edition)**
+# **General English Learning Companion**
 
 ## **🎓 Project Overview**
 
